@@ -22,30 +22,14 @@
 
 <table>
   <tr>
-    <td width=300 rowspan=2></td>
-    <td width=300></td>
-    <td width=300></td>
-    <td width=300></td>
-  </tr>
-  <tr>
-      <td width=300></td>
-    <td width=300></td>
-    <td width=300></td>
-  </tr>
-  <tr>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td width=100 rowspan=2 align="center"><strong>Tools</strong></td>
-    <td width=80><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="height: 24px;"/></td>
-    <td width=80><img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" alt="GithubActions" style="height: 24px;"/></td>
-    <td width=80><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="height: 24px;"/></td>
-    <td width=80><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" style="height: 24px;"/></td>
-    <td width=80><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" style="height: 24px;"/></td>
-    <td width=80><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" style="height: 24px;"/></td>
-    <td><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" style="height: 24px;"/></td>
+    <td width=100><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="height: 24px;"/></td>
+    <td width=100><img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" alt="GithubActions" style="height: 24px;"/></td>
+    <td width=100><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="height: 24px;"/></td>
+    <td width=100><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" style="height: 24px;"/></td>
+    <td width=100><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" style="height: 24px;"/></td>
+    <td width=100><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" style="height: 24px;"/></td>
+    <td width=100><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" style="height: 24px;"/></td>
   </tr>
   <tr>
       <td><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" style="height: 24px;"/></td>
