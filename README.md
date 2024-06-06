@@ -29,10 +29,10 @@
     <td width=100><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" style="height: 24px;"/></td>
     <td width=100><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" style="height: 24px;"/></td>
     <td width=100><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" style="height: 24px;"/></td>
+    <td width=100><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" style="height: 24px;"/></td>
   </tr>
   <tr>
-      <td width=100><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" style="height: 24px;"/></td>
-      <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="NPM" style="height: 24px;"/></td>
+    <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="NPM" style="height: 24px;"/></td>
   </tr>
   <tr>
     <td><strong>Operating systems</strong></td>
@@ -51,9 +51,9 @@
     <td><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" style="height: 24px;"/></td>
+    <td><img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" style="height: 24px;"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" alt="opengl" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressJs" style="height: 24px;"/></td>
@@ -67,9 +67,9 @@
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="height: 24px;"/></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="height: 24px;"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/HTML%2F%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" style="height: 24px;"/></td>
@@ -77,8 +77,6 @@
     <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp" style="height: 24px;"/></td>
   </tr>
 </table>
-
-
 
 ---
 
