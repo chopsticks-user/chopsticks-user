@@ -16,6 +16,8 @@
 
 ### :technologist: About Me :
 
+- :books: I'm a 4-th year student at the University of Virginia. My majors are Physics and Computer Science
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
