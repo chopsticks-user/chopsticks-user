@@ -22,17 +22,36 @@
 
 <table>
   <tr>
-    <td><strong>Tools</strong></td>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="height: 24px;"/></td>
-    <td><img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" alt="GithubActions" style="height: 24px;"/></td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="height: 24px;"/></td>
-    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" style="height: 24px;"/></td>
-    <td><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" style="height: 24px;"/></td>
-    <td><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" style="height: 24px;"/></td>
-    <td><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" style="height: 24px;"/></td>
-    <!-- <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Conan" style="height: 24px;"/></td> -->
+    <td width=300 rowspan=2></td>
+    <td width=300></td>
+    <td width=300></td>
+    <td width=300></td>
   </tr>
   <tr>
+      <td width=300></td>
+    <td width=300></td>
+    <td width=300></td>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width=100 rowspan=2 align="center"><strong>Tools</strong></td>
+    <td width=80><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="height: 24px;"/></td>
+    <td width=80><img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" alt="GithubActions" style="height: 24px;"/></td>
+    <td width=80><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="height: 24px;"/></td>
+    <td width=80><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" style="height: 24px;"/></td>
+    <td width=80><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" style="height: 24px;"/></td>
+    <td width=80><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" style="height: 24px;"/></td>
+    <td><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" style="height: 24px;"/></td>
+  </tr>
+  <tr>
+      <td><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" style="height: 24px;"/></td>
+    <!-- <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Conan" style="height: 24px;"/></td> -->
+  </tr>
+  <!-- <tr>
     <td><strong>Operating systems</strong></td>
     <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch" style="height: 24px;"/></td>
@@ -68,7 +87,7 @@
     <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" style="height: 24px;"/></td>
-  </tr>
+  </tr> -->
 </table>
 
 
