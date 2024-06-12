@@ -24,7 +24,7 @@ Hey there!
 
 <table>
   <tr>
-    <td width=100 rowspan=2 align="center"><strong>Tools</strong></td>
+    <td width=100 rowspan=2 align="center"><strong>Tools & Platforms</strong></td>
     <td width=100><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="height: 24px;"/></td>
     <td width=100><img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" alt="GithubActions" style="height: 24px;"/></td>
     <td width=100><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="height: 24px;"/></td>
@@ -47,7 +47,7 @@ Hey there!
     <td><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="ios" style="height: 24px;"/></td>
   </tr>
   <tr>
-    <td rowspan=2><strong>Frameworks</strong></td>
+    <td rowspan=2><strong>Frameworks & Libraries</strong></td>
     <td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative"style="height: 24px;"/></td>
