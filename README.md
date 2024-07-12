@@ -14,8 +14,6 @@
 
 ### :snowflake: About Me :
 
-Hey there!
-
 <!-- const education = {
     university: "University of Virginia",
     status: "4-th year undergraduate student",
@@ -34,6 +32,10 @@ const majorString = education.majors.length === 1
                         }
                     })}`;
 -->
+
+```typescript
+console.log('Hey there!');
+```
 
 ```csharp
 class Education
