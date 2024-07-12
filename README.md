@@ -60,8 +60,8 @@ int main(int argc, char** argv) {
 ```java
 class ProjectGoal {
   public static void main(String[] args) {
-    if(ICouldDedicateAllOfMyFreeTimeToAProgrammingProject) {
-      System.out.println("I would love to build an ECS-based game engine")
+    if(iCouldDedicateAllOfMyFreeTimeToAProgrammingProject) {
+      System.out.println("I would build an ECS-based game engine")
     }
   }
 }
