@@ -14,25 +14,6 @@
 
 ### :snowflake: About Me :
 
-<!-- const education = {
-    university: "University of Virginia",
-    status: "4-th year undergraduate student",
-    majors: ["Physics", "Computer Science"],
-};
-
-const majorString = education.majors.length === 1 
-                    ? `My major is ${education.majors[0]}`
-                    : `My majors are ${education.majors.reduce((acc, cur, index) => {
-                        if (index === 0) {
-                            return cur;
-                        } else if (index === education.majors.length - 1) {
-                            return acc + " and " + cur;
-                        } else {
-                            return acc + ", " + cur;
-                        }
-                    })}`;
--->
-
 ```typescript
 console.log('Hey there!');
 ```
