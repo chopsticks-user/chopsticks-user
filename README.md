@@ -3,8 +3,6 @@
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" href="mailto:huuquangcap@gmail.com"/>
-  <!-- <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
 </div>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=chopsticks-user&style=flat-square&color=blue" alt=""/>
