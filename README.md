@@ -101,16 +101,16 @@ class ProjectGoal {
     <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 24px;"/></td>
-    <td><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust" style="height: 24px;"/></td>
+    <td><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" style="height: 24px;"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/HTML%2F%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt=latex style="height: 24px;"/></td>
+<!--     <td><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust" style="height: 24px;"/></td> -->
 <!--     <td><img src="https://img.shields.io/badge/Cuda-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Cuda" style="height: 24px;"/></td> -->
 <!--     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="height: 24px;"/></td> -->
   </tr>
