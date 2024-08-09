@@ -111,7 +111,6 @@ class ProjectGoal {
     <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt=latex style="height: 24px;"/></td>
 <!--     <td><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust" style="height: 24px;"/></td> -->
-<!--     <td><img src="https://img.shields.io/badge/Cuda-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Cuda" style="height: 24px;"/></td> -->
   </tr>
 </table>
 
