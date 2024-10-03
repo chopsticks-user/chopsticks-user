@@ -79,16 +79,16 @@ class ProjectGoal {
     <td rowspan=2><strong>Frameworks & Libraries</strong></td>
     <td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="height: 24px;"/></td>
-    <td><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" style="height: 24px;"/></td>
+<!--     <td><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" style="height: 24px;"/></td> -->
     <td><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" style="height: 24px;"/></td>
-    <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" style="height: 24px;"/></td>
+<!--     <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" style="height: 24px;"/></td> -->
     <td><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressJs" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="height: 24px;"/></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative"style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" style="height: 24px;"/></td>
-    <td><img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="tauri" style="height: 24px;"/></td>
+<!--     <td><img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="tauri" style="height: 24px;"/></td> -->
     <td><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" alt="opengl" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan" alt="vulkan" style="height: 24px;"/></td>
     <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" style="height: 24px;"/></td>
