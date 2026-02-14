@@ -120,4 +120,4 @@ class ProjectGoal {
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chopsticks-user&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-![Top Langs](https://github-readme-stats-gamma-eight-95.vercel.app/api/top-langs/?username=chopsticks-user&include_orgs=true&layout=compact&theme=dark&background=000000&langs_count=30&hide=html,tex,jupyter%20notebook,roff,makefile,glsl&count-private=true)
+<!-- ![Top Langs](https://github-readme-stats-gamma-eight-95.vercel.app/api/top-langs/?username=chopsticks-user&include_orgs=true&layout=compact&theme=dark&background=000000&langs_count=30&hide=html,tex,jupyter%20notebook,roff,makefile,glsl&count-private=true) -->
