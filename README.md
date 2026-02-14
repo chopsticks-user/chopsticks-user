@@ -114,7 +114,7 @@ class ProjectGoal {
   </tr>
 </table>
 
----
+<!-- --- -->
 
 <!-- ### :fire: My Stats : -->
 
